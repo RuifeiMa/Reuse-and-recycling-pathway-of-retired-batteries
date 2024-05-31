@@ -4,4 +4,3 @@ This accessible roadmap design and evaluation tool focuses on selecting battery 
 
 Figure1.m generates the main data, including the economic performance and carbon footprint across different stages. Figure2.m, Figure3.m, Figure4.m, Figure5.m, Figure6.m are based on the data processed from Figure1.m. Therefore, Figure1.m should be run first, followed by Figure2.m, Figure3.m, Figure4.m, Figure5.m, and Figure6.m.
 
-Configuration.m serves as the decision support system for battery capacity configuration. It provides detailed data for the use stage, including daily operation cost, investment cost, daily maintenance cost, and operation time. 
