@@ -5,3 +5,5 @@ This accessible roadmap design and evaluation tool focuses on selecting battery 
 Main1AllDataGeneration.m generates the main data, including the economic performance and carbon footprint across different stages. Main2CarbonFootprint.m, Main3ManufacturingCarbonFootprintDetalis.m, Main4RecyclingCostDetails.m, Main5PathwayCost.m, Main6PathwayCarbonFootprint.m are based on the data processed from Main1AllDataGeneration.m. Therefore, Main1AllDataGeneration.m should be run first, followed by other five files.
 
 ![image](https://github.com/user-attachments/assets/f8fc40d9-5562-4e70-a455-651cc0dba5b5)
+
+If you have any questions, you can contact ruifei.ma@outlook.com...
