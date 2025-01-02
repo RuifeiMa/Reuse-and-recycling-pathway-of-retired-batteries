@@ -13,4 +13,5 @@ If you have any questions, you can email ruifei.ma@outlook.com...
 ------------ December 12th, 2024 updata following -------------------
 
 The author sincerely apologizes for a mistake in the paper and would like to clarify that the correct form of Figure 2d should be (a vertical flip as seen on the official website):
+
 <img width="228" alt="a52c96d4a8b054fb116f1fe15cfba0c" src="https://github.com/user-attachments/assets/1daae336-1d23-44d8-b79b-c601ea5e4a5b" />
