@@ -10,8 +10,13 @@ Based on this tool, some of the data generated have been published in the paper 
 
 If you have any questions, you can email ruifei.ma@outlook.com, xuanzhang@sz.tsinghua.edu.cn, quiwudtu@163.com, and guangminzhou@sz.tsinghua.edu.cn...
 
+
+------------ November 20th, 2024 updata following -------------------
+
+The authors apologize for the previous version's data not being uploaded successfully, which caused the files to be missing. We have re-uploaded the relevant data.
+
 ------------ December 12th, 2024 updata following -------------------
 
-The authors sincerely apologizes for a mistake in the paper and would like to clarify that the correct form of Figure 2d should be (a vertical flip as seen on the official website):
+The authors sincerely apologize for a mistake in the paper and would like to clarify that the correct form of Figure 2d should be (a vertical flip as seen on the official website):
 
 <img width="228" alt="a52c96d4a8b054fb116f1fe15cfba0c" src="https://github.com/user-attachments/assets/1daae336-1d23-44d8-b79b-c601ea5e4a5b" />
