@@ -29,6 +29,6 @@ Incorrect figure citation.
 On page 6, the reference “(as shown in Fig. 2b)” should read “(as shown in Fig. 2c).”
 
 Miscalculated Unit battery profit values in Figs 2b–2c.
-While plotting “unit battery profit”, we mistakenly divided profit by the number of battery cells ( $/number of battery cell ) instead of by configured capacity ( $/kWh battery cell ). This error produced unit battery profit markers that are much lower than the true values. The corrected figures are provided below.
+While plotting “unit battery profit”, we mistakenly divided profit by the number of battery cells ( USD/number of battery cell ) instead of by configured capacity ( USD/kWh battery cell ). This error produced unit battery profit markers that are much lower than the true values. The corrected figures are provided below.
 
 <img width="890" alt="f79eaa308d5de550cdc766d56288031" src="https://github.com/user-attachments/assets/7dfb7ee7-a3fb-4e82-af58-df1a360dec4d" />
