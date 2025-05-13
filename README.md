@@ -25,8 +25,8 @@ The authors sincerely apologize for a mistake in the paper and would like to cla
 
 The authors apologize for the following oversights.
 
-Incorrect figure citation.
-On page 6, the reference “(as shown in Fig. 2b)” should read “(as shown in Fig. 2c).”
+Incorrect number and figure citation.
+On page 6, the sentence “while its value in the reuse stage changes significantly by at least $55/kWh (as shown in Fig. 2b)” should read “while its value in the reuse stage changes significantly by at least $238/kWh (as shown in Fig. 2c).”
 
 Miscalculated unit battery profit values in Figs 2b–2c.
 While plotting “unit battery profit”, we mistakenly divided profit by the number of battery cells ( USD/number of battery cell ) instead of by configured capacity ( USD/kWh battery cell ). This error produced unit battery profit markers that are much lower than the true values. The corrected figures are provided below.
