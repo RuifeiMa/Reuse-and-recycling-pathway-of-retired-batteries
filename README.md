@@ -8,7 +8,7 @@ Main1AllDataGeneration.m generates the main data, including the economic perform
 
 Based on this tool, some of the data generated have been published in the paper titled "Pathway Decisions for Reuse and Recycling of Retired Lithium-Ion Batteries Considering Economic and Environmental Functions". If you use the code, please cite this paper. You can access the paper at https://doi.org/10.1038/s41467-024-52030-0.
 
-If you have any questions, you can email ruifei.ma@outlook.com, xuanzhang@sz.tsinghua.edu.cn, quiwudtu@163.com, and guangminzhou@sz.tsinghua.edu.cn...
+If you have any questions, you can email ruifei.ma@outlook.com...
 
 
 ------------ November 20th, 2024 updata following -------------------
